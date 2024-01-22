@@ -1,5 +1,9 @@
 hello this is Local.Tool and was made from scratch on 22 Jan 2024 using:
 
+  https://github.com/asig/native-oberon.git
+
+  Use 20030105 not the 2.3.6 version
+
   !Script.Open Local.Tool ~
   System.Open EditTools.Tool ~ font work
   System.Reboot ~
