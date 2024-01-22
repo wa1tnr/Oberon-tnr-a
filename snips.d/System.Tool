@@ -2,6 +2,10 @@
   local mods only - not the entire thing
 
   !Script.Open Local.Tool ~ create
+  !System.Open LocalN.Tool ~ create, 2nd method
+
+  The bangs ('!') prevent command execution ;)
+
   System.Open Local.Tool ~ edit
   System.Reboot ~ System.Quit ~
 
