@@ -1,7 +1,15 @@
 #### Oberon-tnr-a
 
-##### Mon 22 Jan 20:56:25 UTC 2024
+##### Fri 13 Nov 16:30:17 UTC 2026
 
+Checking in.  Reread what was here.  More was learned
+in October of 2026.  Found a way (possibly) to import
+and export via the filesystem itself - to gain work
+done inside the Oberon (OS) environment.
+
+Old comments follow (pre Nov 2026).
+
+` - - -`
 Oberon 2003 3 Jan - snippets expected in this repository.
 
 Maybe other stuff.
